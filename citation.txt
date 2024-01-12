@@ -1,0 +1,7 @@
+@inproceedings{REPO007,
+    author = "Jain, Paras and Kumar, Sam and Wooders, Sarah and Patil, Shishir G and Gonzalez, Joseph E and Stoica, Ion",
+    booktitle = "20th USENIX Symposium on Networked Systems Design and Implementation (NSDI 23)",
+    pages = "1375--1389",
+    title = "{Skyplane: Optimizing Transfer Cost and Throughput Using $\{$Cloud-Aware$\}$ Overlays}",
+    year = "2023"
+}
